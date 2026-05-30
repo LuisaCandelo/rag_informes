@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Proyectos/Proyecto rag report/mlruns/186204835776217356/af5a717b151e4df4920dbe358e42472f/artifacts
+end_time: 1779758135564
+entry_point_name: ''
+experiment_id: '186204835776217356'
+lifecycle_stage: active
+run_id: af5a717b151e4df4920dbe358e42472f
+run_name: Pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779758114002
+status: 3
+tags: []
+user_id: Luisa

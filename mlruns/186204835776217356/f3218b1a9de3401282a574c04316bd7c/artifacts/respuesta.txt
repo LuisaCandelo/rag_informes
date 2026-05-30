@@ -1,0 +1,17 @@
+## Informe Económico – 2026-02-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 18.3, registrando una variación anual de 30.3 puntos porcentuales. El Índice de Gerentes de Compras (PMI) alcanzó 51.6, indicando expansión en el sector manufacturero. El Índice de Percepción Económica del Consumidor (IPEC) se ubicó en 298.0, partiendo de una base de 100. Finalmente, el Índice de Seguimiento a la Economía (ISE) alcanzó 119.6, presentando un crecimiento anual de 1.3%.
+
+### 2. Interpretación económica
+
+Los datos macroeconómicos recientes para Colombia delinean un escenario de recuperación económica gradual. El PMI en 51.6 es un indicador robusto de expansión en el sector manufacturero, lo que sugiere un impulso positivo en la actividad productiva y la demanda interna y externa. Esta expansión sectorial se refleja en el crecimiento anual del 1.3% del ISE, confirmando una trayectoria de crecimiento económico, aunque a un ritmo moderado.
+
+En el ámbito del sentimiento económico, el ICC, con un valor de 18.3, aún denota un nivel bajo de confianza entre los consumidores. Sin embargo, la variación anual de 30.3 puntos porcentuales es significativa, indicando una notable mejora en la percepción de los hogares respecto a su situación financiera y la economía en general, recuperándose de niveles previos más bajos. Complementariamente, el IPEC, al situarse en 298.0 sobre una base de 100, sugiere una percepción económica general muy optimista, posiblemente reflejando expectativas a mediano plazo o una visión más macroeconómica que la confianza inmediata del consumidor. La combinación de un PMI expansivo y un IPEC elevado sugiere que el sector productivo y las expectativas generales están impulsando la economía, mientras que la confianza del consumidor, aunque mejorando, aún refleja cierta cautela en el gasto inmediato.
+
+### 3. Conclusión
+
+La economía colombiana exhibe señales consistentes de una recuperación sostenida, impulsada por la expansión del sector manufacturero y un crecimiento moderado del PIB. La mejora significativa en la confianza del consumidor, aunque partiendo de un nivel bajo, y la fuerte percepción económica general, son factores que podrían consolidar esta trayectoria positiva.
+
+No obstante, persisten riesgos que requieren atención. El bajo nivel absoluto del ICC indica que la confianza del consumidor sigue siendo frágil, lo que podría limitar el dinamismo del consumo privado a futuro. Asimismo, la moderada tasa de crecimiento del ISE (1.3%) sugiere que la recuperación podría ser lenta, lo que podría no ser suficiente para generar un impacto significativo en el empleo y los ingresos de los hogares a corto plazo. La divergencia entre la fuerte percepción económica (IPEC) y la aún baja confianza del consumidor (ICC) merece un seguimiento cercano, ya que podría señalar una desconexión entre las expectativas macroeconómicas y la realidad financiera de los hogares, lo que podría afectar la sostenibilidad del crecimiento.

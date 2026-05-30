@@ -1,0 +1,18 @@
+## Informe Económico – 2026-02-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 18.3 puntos, registrando una variación anual de 30.3 puntos porcentuales.
+El Índice de Gerentes de Compras (PMI) alcanzó 51.6 puntos, indicando una fase de expansión en la actividad del sector.
+El Índice de Precios al Consumidor (IPEC) se ubicó en 298.0 puntos, partiendo de una base 100.
+El Índice de Seguimiento a la Economía (ISE) se situó en 119.6 puntos, presentando un crecimiento anual de 1.3%.
+
+### 2. Interpretación económica
+
+Los datos de febrero de 2026 reflejan un panorama económico con dinámicas contrastantes. Por un lado, la actividad productiva muestra un impulso positivo, evidenciado por un PMI de 51.6 puntos, lo que sugiere una expansión en la manufactura y los servicios. Este dinamismo se traduce en un crecimiento anual del Índice de Seguimiento a la Economía (ISE) del 1.3%, indicando una expansión general de la actividad económica, aunque a un ritmo moderado.
+
+Por otro lado, la confianza de los consumidores (ICC) se mantiene en un nivel absoluto bajo de 18.3 puntos. Si bien ha experimentado una notable variación anual positiva de 30.3 puntos porcentuales, esta mejora parte de una base muy deprimida, lo que implica que el sentimiento de los hogares sigue siendo cauteloso. La persistencia de un IPEC en 298.0 puntos (base 100) sugiere que las presiones inflacionarias acumuladas a lo largo del tiempo continúan siendo un factor relevante, erosionando el poder adquisitivo y contribuyendo a la reticencia del consumidor, a pesar de la expansión observada en el sector productivo. La divergencia entre la expansión empresarial y la cautela del consumidor es un elemento clave de la dinámica actual, donde el crecimiento económico aún no se ha traducido plenamente en un optimismo generalizado entre los hogares.
+
+### 3. Conclusión
+
+La economía colombiana exhibe una trayectoria de crecimiento moderado, impulsada principalmente por la expansión del sector productivo. Sin embargo, la recuperación de la confianza del consumidor es aún incipiente y frágil, lo que representa un riesgo para la sostenibilidad del crecimiento a largo plazo. La elevada cifra del IPEC subraya la importancia de monitorear las presiones inflacionarias, ya que estas podrían seguir limitando el consumo y la inversión de los hogares. Para consolidar la recuperación, será crucial fortalecer la confianza del consumidor y asegurar que los beneficios de la expansión económica se traduzcan en una mejora tangible del poder adquisitivo y las expectativas de los ciudadanos. Los principales riesgos radican en la persistencia de la baja confianza del consumidor y la potencial reactivación de presiones inflacionarias que puedan frenar el impulso económico.

@@ -1,0 +1,17 @@
+## Informe Económico – 2025-12-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 19.9, registrando una variación anual de 23.3 puntos porcentuales. El Índice de Gerentes de Compras (PMI) alcanzó un valor de 52.6. El Índice de Precios al Consumidor (IPEC) se ubicó en 299.0, tomando como referencia una base 100. Finalmente, el Índice de Seguimiento a la Economía (ISE) se situó en 140.1, presentando un crecimiento anual de 0.8%.
+
+### 2. Interpretación económica
+
+La economía colombiana exhibe un panorama de crecimiento moderado y persistentes desafíos inflacionarios. El Índice de Seguimiento a la Economía (ISE), con un crecimiento anual de 0.8%, indica una expansión económica lenta, lo que sugiere una actividad general contenida. En contraste, el Índice de Gerentes de Compras (PMI) en 52.6 señala una expansión en el sector manufacturero, lo cual representa un punto positivo y un motor potencial para la actividad económica, aunque su impacto no se traduce en un crecimiento robusto a nivel agregado.
+
+La confianza del consumidor (ICC), aunque registra un valor absoluto bajo de 19.9, muestra una mejora significativa de 23.3 puntos porcentuales en su variación anual. Esta recuperación, desde un punto presumiblemente más bajo, podría indicar un atisbo de optimismo o una moderación del pesimismo previo, pero el nivel actual sigue reflejando una cautela profunda por parte de los hogares. Esta baja confianza es consistente con el elevado nivel del Índice de Precios al Consumidor (IPEC) en 299.0 (base 100), el cual sugiere una acumulación considerable de presiones inflacionarias a lo largo del tiempo, erosionando el poder adquisitivo y afectando las expectativas de consumo. La combinación de una inflación acumulada elevada y un crecimiento económico modesto probablemente explica la persistente debilidad en la confianza del consumidor, a pesar de la mejora marginal observada.
+
+### 3. Conclusión
+
+La economía colombiana se encuentra en una fase de crecimiento tenue, con un 0.8% anual en el ISE, y enfrenta desafíos significativos derivados de un alto nivel de precios acumulados, reflejado en un IPEC de 299.0. Aunque la confianza del consumidor (ICC) ha mostrado una recuperación de 23.3 puntos porcentuales, su nivel absoluto de 19.9 sigue siendo bajo, indicando un sentimiento generalizado de cautela. El sector manufacturero, evidenciado por un PMI de 52.6, emerge como un punto de fortaleza, mostrando expansión.
+
+Los principales riesgos para el futuro inmediato incluyen la persistencia de las presiones inflacionarias, que podrían seguir mermando el poder adquisitivo y la demanda interna. Asimismo, la debilidad de la confianza del consumidor podría limitar la recuperación del consumo privado, frenando un mayor impulso al crecimiento económico. Es crucial monitorear la evolución de los precios y la efectividad de las políticas para estimular una recuperación más robusta y equilibrada.

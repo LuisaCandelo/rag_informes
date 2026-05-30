@@ -1,0 +1,39 @@
+## Informe Económico – 2026-02-01
+
+### 1. Análisis técnico
+
+**Índice de Confianza del Consumidor (ICC)**
+El ICC se situó en 18.3 puntos, registrando una notable variación anual del 30.3%. Este valor positivo y su significativo incremento interanual reflejan un marcado optimismo entre los consumidores colombianos. La mejora en la confianza sugiere una percepción favorable sobre la situación económica actual y futura, lo que históricamente se correlaciona con un mayor propensión al consumo de los hogares. La magnitud del cambio anual indica una recuperación sustancial en el ánimo de los consumidores, posiblemente impulsada por factores como una mejora en las expectativas de empleo o una moderación en las presiones inflacionarias percibidas.
+
+**Índice de Gerentes de Compras (PMI)**
+El PMI alcanzó un valor de 51.6 puntos. Al ubicarse por encima del umbral de 50, este indicador señala una expansión en el sector manufacturero. Este resultado implica un crecimiento en la producción, un aumento en los nuevos pedidos, una expansión del empleo y, potencialmente, una gestión saludable de los inventarios. La lectura sugiere que las empresas manufactureras están experimentando un entorno de demanda favorable y están respondiendo con un incremento en su actividad operativa.
+
+**Índice de Percepción de la Incertidumbre Económica (IPEC)**
+El IPEC se situó en 298.0 puntos. Dado que su base es 100, este valor considerablemente elevado indica una alta percepción de incertidumbre económica en el país. Un IPEC tan alto sugiere que los agentes económicos, particularmente las empresas y los inversionistas, enfrentan un entorno con elevada dificultad para prever el futuro económico. Esta incertidumbre puede estar relacionada con factores políticos, regulatorios, fiscales o externos, y tiende a inhibir las decisiones de inversión a largo plazo y la asunción de riesgos.
+
+**Índice de Seguimiento a la Economía (ISE)**
+El ISE registró un valor de 119.6 puntos, con un crecimiento anual del 1.3%. Este indicador refleja la dinámica general de la actividad económica. El crecimiento positivo, aunque moderado, sugiere que la economía colombiana continúa en una senda de expansión. Sin embargo, la tasa de crecimiento del 1.3% indica que esta expansión no es robusta y podría estar siendo impulsada por algunos sectores mientras otros muestran un desempeño más lento o incluso contractivo, promediando un avance general contenido.
+
+---
+
+### 2. Interpretación económica
+
+El panorama económico para el periodo analizado presenta una combinación de señales positivas en la demanda y la producción, contrastadas con una elevada incertidumbre que podría limitar el potencial de crecimiento.
+
+La fuerte recuperación del **ICC (18.3, +30.3% anual)** es un motor clave para el consumo de los hogares. Este optimismo se traduce en una mayor disposición a gastar, lo que a su vez impulsa la demanda interna. La coherencia con el **PMI (51.6)** es notable: la expansión del sector manufacturero sugiere que las empresas están percibiendo y respondiendo a esta demanda creciente, incrementando su producción y, consecuentemente, el empleo. Esto podría estar generando un círculo virtuoso donde el aumento de la actividad manufacturera sostiene el empleo y los ingresos, reforzando la confianza del consumidor. El comportamiento empresarial, al expandir la producción y los inventarios, parece estar anticipando una demanda sostenida.
+
+Sin embargo, la alta lectura del **IPEC (298.0)** introduce una contradicción fundamental en este escenario. A pesar del optimismo del consumidor y la expansión manufacturera, la incertidumbre económica es palpable y elevada. Esta dicotomía sugiere que, si bien el consumo a corto plazo y la producción inmediata están reaccionando positivamente, las decisiones de inversión a mediano y largo plazo están siendo postergadas o reevaluadas. La incertidumbre podría estar ligada a factores macroeconómicos estructurales, la dirección de la política económica, o la volatilidad en los mercados internacionales, que no afectan directamente el consumo diario o la producción manufacturera de bienes de consumo, pero sí la planificación estratégica de las empresas.
+
+El **ISE (119.6, +1.3% anual)**, con su crecimiento moderado, parece reflejar esta tensión. Si bien hay una expansión general de la actividad económica, el ritmo del 1.3% anual no es explosivo. Esto podría indicar que el impulso del consumo y la manufactura está siendo parcialmente contrarrestado por la cautela en la inversión o por un desempeño más débil en otros sectores de la economía (como servicios, construcción o minería, no directamente capturados por el PMI manufacturero). La alta incertidumbre (IPEC) actúa como un freno potencial, impidiendo que el optimismo del consumidor y la expansión manufacturera se traduzcan en un crecimiento económico más robusto y generalizado.
+
+En resumen, observamos un fortalecimiento de la demanda interna y una respuesta positiva de la producción manufacturera. No obstante, la persistente y elevada incertidumbre económica representa un riesgo significativo. Podría debilitar la inversión productiva, limitar la creación de empleo de calidad a largo plazo y, en última instancia, frenar una aceleración más contundente del crecimiento económico. Las presiones inflacionarias no son directamente visibles en estos indicadores, pero un consumo robusto y una producción en expansión podrían generar presiones si la oferta no se ajusta adecuadamente.
+
+---
+
+### 3. Conclusión
+
+La economía colombiana se encuentra en un momento de expansión moderada, caracterizado por una notable recuperación de la confianza del consumidor y una expansión saludable en el sector manufacturero. Estos indicadores sugieren un fortalecimiento de la demanda interna y una respuesta positiva de la actividad productiva, lo que impulsa el crecimiento general de la economía, aunque a un ritmo contenido del 1.3% anual según el ISE.
+
+Sin embargo, la señal más crítica y un riesgo latente para el periodo es la persistente y elevada incertidumbre económica, reflejada en el IPEC. Esta incertidumbre actúa como un contrapeso significativo al optimismo de los consumidores y a la dinámica positiva de la manufactura. Podría estar inhibiendo decisiones de inversión a gran escala y limitando el potencial de un crecimiento económico más vigoroso y sostenible.
+
+El ciclo económico actual parece ser una fase de recuperación o expansión temprana, pero con una fragilidad inherente debido a la incertidumbre. Para que la economía transite hacia una fase de crecimiento más robusto y sostenido, será crucial abordar las fuentes de esta incertidumbre y fomentar un entorno que estimule la inversión productiva a largo plazo, capitalizando el optimismo del consumidor y la capacidad de respuesta del sector manufacturero. De lo contrario, el crecimiento podría permanecer en un nivel modesto, por debajo de su potencial.

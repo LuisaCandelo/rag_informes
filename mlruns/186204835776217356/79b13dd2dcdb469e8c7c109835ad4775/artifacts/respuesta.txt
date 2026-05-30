@@ -1,0 +1,15 @@
+## Informe Económico – 2026-01-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 18.2, registrando una variación anual de 19.3 puntos porcentuales. El Índice de Gerentes de Compras (PMI) alcanzó un valor de 50.0. Por su parte, el Índice de Expectativas del Consumidor (IPEC) se ubicó en 389.0, tomando como referencia una base 100. Finalmente, el Índice de Seguimiento a la Economía (ISE) se situó en 117.6, presentando un crecimiento anual del 1.0%.
+
+### 2. Interpretación económica
+
+La economía colombiana muestra un crecimiento anual modesto del 1.0% según el ISE, lo que indica una expansión lenta pero sostenida de la actividad económica general. Esta dinámica se ve reflejada en el sector manufacturero, donde el PMI en 50.0 señala una actividad estancada, sin señales claras de expansión ni contracción.
+
+En cuanto al sentimiento del consumidor, se observa una dicotomía. Si bien el Índice de Confianza del Consumidor (ICC) se mantiene en un nivel bajo de 18.2, lo que sugiere una percepción desfavorable de la situación económica actual, su variación anual positiva de 19.3 puntos porcentuales indica una mejora significativa respecto al año anterior. Esta mejora en la confianza actual se complementa con un Índice de Expectativas del Consumidor (IPEC) excepcionalmente alto en 389.0, lo que sugiere una fuerte anticipación de condiciones económicas más favorables en el futuro. La combinación de un crecimiento económico moderado con un sector industrial plano, junto con una confianza actual débil pero en recuperación y expectativas futuras muy optimistas, pinta un cuadro de transición y potencial.
+
+### 3. Conclusión
+
+En síntesis, la economía colombiana se encuentra en una fase de crecimiento lento, con el sector manufacturero en un punto de neutralidad. A pesar de una confianza del consumidor actualmente baja, se percibe una clara tendencia de mejora y, lo que es más notable, unas expectativas futuras excepcionalmente optimistas. Esta divergencia entre la situación presente y las proyecciones futuras podría ser un motor de recuperación, pero también encierra riesgos. El principal riesgo radica en que estas elevadas expectativas no se materialicen en una mejora tangible de las condiciones económicas, lo que podría generar una desilusión y un deterioro abrupto del sentimiento. Adicionalmente, la persistencia del estancamiento en sectores clave como la manufactura podría limitar el potencial de crecimiento a mediano plazo y dificultar la consolidación de la recuperación esperada por los consumidores.

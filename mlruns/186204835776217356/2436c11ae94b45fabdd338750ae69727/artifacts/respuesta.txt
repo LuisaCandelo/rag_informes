@@ -1,0 +1,20 @@
+## Informe Económico – 2025-06-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 2.2, registrando una variación anual de 14.9 puntos porcentuales.
+El Índice de Gerentes de Compras (PMI) alcanzó 51.0, indicando una fase de expansión en el sector manufacturero.
+El Índice de Percepción Económica (IPEC) se ubicó en 280.0, tomando como referencia una base de 100.
+El Índice de Seguimiento a la Economía (ISE) se situó en 123.0, presentando un crecimiento anual de 3.4%.
+
+### 2. Interpretación económica
+
+La economía colombiana exhibe una dinámica de crecimiento moderado, evidenciada por el Índice de Seguimiento a la Economía (ISE) que registró un crecimiento anual del 3.4%. Este desempeño positivo se ve respaldado por la actividad del sector manufacturero, donde el Índice de Gerentes de Compras (PMI) en 51.0 señala una ligera expansión, lo que sugiere un aporte favorable de la producción industrial a la actividad económica general.
+
+No obstante, la confianza del consumidor permanece en niveles extremadamente bajos, con el ICC en 2.2. A pesar de una mejora anual de 14.9 puntos porcentuales, el valor absoluto indica una persistente cautela o pesimismo entre los hogares respecto a su situación económica personal y la disposición al gasto. Esta debilidad en la confianza del consumidor contrasta marcadamente con el elevado valor del Índice de Percepción Económica (IPEC), que se sitúa en 280.0 sobre una base de 100. Esta divergencia podría sugerir una desconexión entre una percepción general optimista sobre el estado de la economía (IPEC) y la confianza de los consumidores en su situación particular o en el corto plazo (ICC).
+
+### 3. Conclusión
+
+En síntesis, la economía colombiana muestra un crecimiento moderado impulsado por la actividad productiva, lo cual es un indicio positivo. Sin embargo, la persistente debilidad de la confianza del consumidor representa un factor de preocupación, a pesar de la mejora interanual. La marcada diferencia entre el ICC y el IPEC sugiere una dualidad en las percepciones económicas, donde la visión general es optimista, pero la confianza a nivel de los hogares es escasa.
+
+El principal riesgo radica en que la baja confianza del consumidor pueda limitar el consumo privado y la inversión a futuro, frenando el impulso de crecimiento actual. Será crucial monitorear la evolución de la confianza de los hogares y entender las razones detrás de esta dicotomía en las percepciones para asegurar una recuperación económica más robusta y equitativa.

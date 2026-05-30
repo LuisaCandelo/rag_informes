@@ -1,0 +1,25 @@
+## Informe Económico – 2026-02-01
+
+### 1. Análisis técnico
+
+El Índice de Confianza del Consumidor (ICC) se situó en 18.3, registrando una variación anual de 30.3 puntos porcentuales. Este incremento sugiere una mejora significativa respecto al año anterior, aunque el nivel absoluto del índice aún refleja una confianza contenida.
+
+El Índice de Gerentes de Compras (PMI) alcanzó un valor de 51.6. Al superar el umbral de 50, este indicador señala una fase de expansión en la actividad del sector manufacturero y de servicios.
+
+El Índice de Percepción Económica (IPEC) se ubicó en 298.0. Dado que este índice se construye sobre una base de 100, su valor actual indica una percepción o actividad económica considerablemente superior a su período base.
+
+Finalmente, el Índice de Seguimiento a la Economía (ISE) se situó en 119.6, presentando un crecimiento anual de 1.3%. Este dato refleja una expansión de la actividad económica general, aunque a un ritmo moderado.
+
+### 2. Interpretación económica
+
+La economía colombiana presenta un panorama de crecimiento sostenido, aunque con matices. La expansión observada en el PMI (51.6) y el elevado valor del IPEC (298.0) sugieren una dinámica positiva en el sector productivo y una robusta actividad económica general. Esto indica que las empresas están experimentando un entorno favorable para la producción y la inversión, lo cual se alinea con el crecimiento anual del ISE del 1.3%.
+
+Sin embargo, la confianza del consumidor (ICC en 18.3) sigue siendo un factor de cautela. A pesar de la notable variación anual positiva de 30.3 puntos porcentuales, que denota una recuperación desde niveles probablemente muy bajos, el valor absoluto del ICC permanece en un rango que no denota un optimismo generalizado entre los hogares. Esta disparidad entre la fortaleza del sector productivo y la moderada confianza del consumidor podría indicar que los beneficios del crecimiento económico no se han traducido plenamente en una mejora percibida por los hogares, o que persisten preocupaciones sobre el poder adquisitivo, el empleo o las condiciones financieras.
+
+En síntesis, la economía está impulsada por el dinamismo empresarial y la actividad productiva, mientras que el consumo privado podría estar actuando como un freno relativo, limitando un crecimiento más vigoroso.
+
+### 3. Conclusión
+
+La economía colombiana se encuentra en una fase de expansión moderada, impulsada principalmente por la actividad del sector productivo, como lo evidencian el PMI y el IPEC. El crecimiento anual del ISE en 1.3% confirma esta trayectoria positiva. No obstante, la confianza del consumidor, aunque en recuperación, se mantiene en niveles bajos, lo que sugiere una cautela persistente entre los hogares.
+
+El principal riesgo a corto y mediano plazo radica en la posibilidad de que la débil confianza del consumidor limite la demanda interna y, consecuentemente, la sostenibilidad del crecimiento observado en el sector empresarial. Una recuperación más robusta del ICC será crucial para consolidar la expansión económica y asegurar que los beneficios del crecimiento se distribuyan de manera más amplia.

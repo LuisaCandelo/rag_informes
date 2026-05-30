@@ -1,0 +1,39 @@
+## Informe Económico – 2026-02-01
+
+### 1. Análisis técnico
+
+**Índice de Confianza del Consumidor (ICC)**
+El Índice de Confianza del Consumidor (ICC) se situó en 18.3 puntos. Este valor, al ser positivo, refleja un sentimiento de optimismo generalizado entre los consumidores colombianos. La variación anual del ICC fue de un notable 30.3%, lo que indica una mejora sustancial en la percepción de los hogares sobre su situación económica actual y futura, así como sobre las condiciones generales del país, en comparación con el mismo periodo del año anterior. Esta recuperación de la confianza es un factor clave para el dinamismo del consumo de los hogares.
+
+**Índice de Gerentes de Compras (PMI)**
+El Índice de Gerentes de Compras (PMI) registró un valor de 51.6. Dado que este indicador se encuentra por encima del umbral de 50, señala una expansión en el sector manufacturero. Este resultado sugiere un aumento en la producción, un posible incremento en los niveles de empleo, una demanda robusta por parte de los clientes y, potencialmente, una acumulación de inventarios por parte de las empresas en anticipación a futuras ventas. Es un indicador positivo de la salud del sector industrial.
+
+**Índice de Percepción de la Incertidumbre Económica (IPEC)**
+El Índice de Percepción de la Incertidumbre Económica (IPEC) alcanzó un valor de 298.0. Considerando que la base de este índice es 100, un valor tan elevado indica una percepción de muy alta incertidumbre económica en el país. Este nivel de incertidumbre es un factor crítico que puede influir negativamente en las decisiones de inversión a largo plazo, aumentar la aversión al riesgo de los agentes económicos y generar cautela en la formulación de políticas económicas, ya que el entorno se percibe como volátil e impredecible.
+
+**Índice de Seguimiento a la Economía (ISE)**
+El Índice de Seguimiento a la Economía (ISE) se ubicó en 119.6. Este indicador, que refleja la actividad económica general, mostró un crecimiento anual del 1.3%. Aunque positivo, este crecimiento es moderado, sugiriendo que la economía colombiana se encuentra en una fase de expansión, pero a un ritmo contenido. El valor del índice en sí mismo (119.6) indica que la actividad económica está por encima de su nivel base, pero la tasa de crecimiento anual es la que determina la dinámica actual del ciclo económico.
+
+---
+
+### 2. Interpretación económica
+
+El panorama económico actual de Colombia, a la luz de los indicadores presentados, revela una dinámica de señales mixtas que merecen una interpretación cuidadosa. Por un lado, observamos un resurgimiento del optimismo en el consumo y una expansión en el sector manufacturero, lo que sugiere una base de actividad económica positiva. El **ICC** en 18.3, con un impresionante crecimiento anual del 30.3%, es un claro indicio de que los hogares están recuperando la confianza en su capacidad de gasto y en el futuro económico. Esto se traduce directamente en un impulso para el **consumo de los hogares**, que es un motor fundamental de la demanda interna.
+
+En coherencia con esta mejora en la demanda, el **PMI** en 51.6 confirma que el sector manufacturero está respondiendo positivamente, experimentando una fase de expansión. Esto implica un aumento en la **producción**, lo que probablemente esté generando nuevas oportunidades de **empleo** y una gestión activa de **inventarios** por parte de las empresas para satisfacer la demanda creciente. Este comportamiento empresarial es una señal saludable de la actividad económica en el corto plazo.
+
+Sin embargo, la principal contradicción y el factor más preocupante en este conjunto de datos es el **IPEC**, que se dispara a 298.0. Un nivel tan elevado de incertidumbre económica actúa como un contrapeso significativo a las señales positivas de consumo y producción. A pesar de que los consumidores se sienten más optimistas y los fabricantes están expandiéndose, la alta incertidumbre genera cautela en las decisiones de **inversión** a largo plazo. Las empresas, aunque vean una demanda actual, podrían posponer grandes proyectos de capital o expansiones significativas debido a la percepción de un entorno de riesgo elevado y una política económica impredecible. Esta incertidumbre puede estar relacionada con factores internos, como debates sobre reformas estructurales o la estabilidad fiscal, o externos, como la volatilidad de los mercados internacionales.
+
+El **ISE**, con un crecimiento anual del 1.3%, corrobora esta interpretación de una expansión moderada. Si bien la economía está creciendo, el ritmo no es robusto, lo que podría explicarse por la tensión entre el dinamismo del consumo y la cautela en la inversión. La alta incertidumbre (IPEC) podría estar limitando el potencial de crecimiento del ISE, impidiendo una aceleración más vigorosa de la actividad económica general. El **comportamiento empresarial**, aunque activo en la producción actual (PMI), podría estar adoptando una postura de "esperar y ver" en lo que respecta a compromisos de capital a largo plazo, lo que a su vez frena la creación de empleo de mayor calidad y el aumento de la productividad.
+
+En resumen, la economía colombiana muestra una demanda interna que se fortalece y un sector manufacturero en expansión, lo que es positivo para el corto plazo. No obstante, la elevada incertidumbre económica es una sombra persistente que amenaza con limitar el potencial de crecimiento a mediano y largo plazo, al desincentivar la inversión y generar cautela en las decisiones estratégicas de los agentes económicos.
+
+---
+
+### 3. Conclusión
+
+El periodo actual se caracteriza por una dicotomía en las señales económicas. Por un lado, la confianza del consumidor ha experimentado una notable recuperación, impulsando el consumo de los hogares y, en consecuencia, la actividad manufacturera, que se encuentra en fase de expansión. Estos indicadores sugieren que la economía colombiana mantiene una inercia positiva, con una demanda interna que se fortalece.
+
+Sin embargo, la principal señal de alerta y el riesgo más significativo para el futuro inmediato es el nivel excepcionalmente alto de incertidumbre económica. Este factor tiene el potencial de neutralizar el optimismo de los consumidores y la expansión productiva, al frenar las decisiones de inversión y la planificación a largo plazo por parte de las empresas. El crecimiento moderado del ISE, a pesar de las señales positivas en consumo y producción, refuerza la idea de que la incertidumbre está actuando como un lastre para una aceleración más robusta de la economía.
+
+Evaluando el momento del ciclo económico, Colombia parece encontrarse en una fase de expansión, pero una que es frágil y contenida. La economía está creciendo, impulsada por el consumo y la producción manufacturera, pero la elevada incertidumbre podría impedir que esta expansión se consolide o acelere, e incluso podría sentar las bases para una desaceleración si no se logra mitigar la percepción de riesgo. La clave para los próximos periodos será observar si la confianza del consumidor y la expansión manufacturera pueden sostenerse frente a la persistente incertidumbre, o si esta última terminará por imponerse, afectando la inversión y el crecimiento a mediano plazo.

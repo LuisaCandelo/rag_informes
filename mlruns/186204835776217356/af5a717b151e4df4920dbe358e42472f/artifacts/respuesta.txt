@@ -1,0 +1,37 @@
+## Informe Económico – 2026-03-01
+
+### 1. Análisis técnico
+
+**Índice de Confianza del Consumidor (ICC)**
+El ICC se situó en 19.3 puntos, registrando una notable variación anual del 26.4%. Este valor positivo, significativamente por encima de cero, indica un marcado optimismo entre los consumidores colombianos. La fuerte variación anual sugiere una mejora sustancial en la percepción de los hogares sobre su situación económica y la del país en comparación con el año anterior, lo que usualmente se traduce en una mayor propensión al consumo de bienes y servicios.
+
+**Índice de Gerentes de Compras (PMI)**
+El PMI alcanzó un valor de 51.4 puntos. Dado que un valor superior a 50 indica expansión, este resultado señala un crecimiento en la actividad del sector manufacturero. Esto implica un aumento en la producción, una posible creación de empleo y una demanda robusta que está siendo atendida por las empresas, lo que refleja una dinámica positiva en la industria.
+
+**Índice de Percepción de la Economía Colombiana (IPEC)**
+El IPEC se ubicó en 252.0 puntos. Con una base de 100, este valor considerablemente elevado indica un nivel muy alto de incertidumbre económica en el país. Este indicador sugiere que, a pesar de otras señales positivas, existe una preocupación subyacente o una falta de claridad sobre el futuro de la economía, lo que puede influir negativamente en las decisiones de inversión a largo plazo y en la percepción de riesgo por parte de los agentes económicos.
+
+**Índice de Seguimiento a la Economía (ISE)**
+El ISE registró un valor de 128.9, con un crecimiento anual del 4.0%. Este incremento refleja una expansión sólida de la actividad económica general en Colombia. Un crecimiento del 4.0% anual es un indicador de una economía dinámica, que está generando valor y empleo, y que se encuentra en una fase de expansión.
+
+### 2. Interpretación económica
+
+El panorama económico para Colombia en este periodo presenta una interesante dualidad: por un lado, una clara fortaleza en la actividad económica y la confianza de los hogares; por otro, una elevada incertidumbre que podría actuar como un freno latente.
+
+La coherencia entre el ICC, el PMI y el ISE es notable. El optimismo de los consumidores (ICC en 19.3 y con un crecimiento anual del 26.4%) se traduce directamente en un robusto consumo de hogares, que a su vez impulsa la actividad productiva. El PMI en 51.4 confirma que el sector manufacturero está respondiendo a esta demanda, expandiendo su producción y, probablemente, generando empleo. Esta dinámica de consumo y producción se consolida en el crecimiento del 4.0% del ISE, lo que indica que la economía en su conjunto está experimentando una fase de expansión vigorosa. La demanda interna parece ser el principal motor de este crecimiento, con los hogares mostrando una mayor disposición a gastar y las empresas a producir.
+
+Sin embargo, la contradicción más relevante surge al incorporar el IPEC, que se sitúa en un alarmante 252.0. Este nivel de incertidumbre es significativamente alto y contrasta con el optimismo del consumidor y la expansión de la actividad. Esta divergencia sugiere que, si bien la economía actual goza de un buen momento impulsado por el consumo y la producción de corto plazo, existe una preocupación profunda sobre el entorno económico futuro, las políticas públicas o la estabilidad general.
+
+Esta alta incertidumbre (IPEC) tiene implicaciones directas en la **inversión**. A pesar de la fuerte demanda y producción actual, las empresas podrían estar adoptando una postura cautelosa respecto a nuevas inversiones de capital a largo plazo. La falta de claridad o la percepción de riesgo elevado desincentiva la expansión de capacidad productiva más allá de lo estrictamente necesario para atender la demanda actual, lo que podría limitar el potencial de crecimiento futuro. El **comportamiento empresarial** se caracterizaría por una gestión eficiente de la producción actual (evidenciada por el PMI), pero con una reticencia a comprometerse con proyectos de gran envergadura que requieren un horizonte de certidumbre más amplio.
+
+En cuanto a las **presiones inflacionarias**, la fuerte demanda interna, reflejada en el ICC y el crecimiento del ISE, podría generar presiones al alza en los precios. Si la producción (PMI) no logra expandirse lo suficiente o si existen cuellos de botella, el exceso de demanda podría traducirse en inflación. La alta incertidumbre del IPEC podría, de hecho, estar parcialmente alimentada por preocupaciones sobre la trayectoria futura de la inflación o la respuesta de la política monetaria.
+
+Finalmente, el **ajuste de inventarios** en el sector manufacturero (implícito en el PMI) probablemente responde a la fuerte demanda. Las empresas podrían estar construyendo inventarios para satisfacer el consumo actual, pero la alta incertidumbre del IPEC podría llevarlas a ser prudentes para evitar excesos que luego deban liquidar a precios reducidos si el panorama futuro se deteriora.
+
+### 3. Conclusión
+
+El periodo actual de la economía colombiana se caracteriza por una fase de expansión robusta, impulsada principalmente por un fuerte consumo de los hogares y una dinámica positiva en el sector manufacturero. El crecimiento del 4.0% en la actividad económica general y el marcado optimismo del consumidor son señales claras de un buen desempeño en el corto plazo.
+
+Sin embargo, la principal señal de alerta y riesgo clave para el mediano plazo es el extraordinariamente alto nivel de incertidumbre económica, reflejado en el IPEC. Esta dicotomía entre una economía que crece y una percepción de futuro incierto sugiere que el actual impulso podría ser vulnerable. La incertidumbre podría estar frenando la inversión productiva, lo que, a la larga, limitaría la capacidad de la economía para sostener tasas de crecimiento elevadas y generar empleo de calidad.
+
+En términos del ciclo económico, Colombia se encuentra en una fase de expansión. No obstante, esta expansión se desarrolla bajo una sombra de incertidumbre que podría impedir una consolidación más profunda y sostenida, y que exige una cuidadosa atención por parte de los formuladores de política económica para mitigar los riesgos asociados a la percepción de inestabilidad futura.

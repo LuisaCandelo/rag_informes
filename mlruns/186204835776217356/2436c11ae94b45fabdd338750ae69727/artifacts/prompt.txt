@@ -1,0 +1,72 @@
+
+Eres economista senior especializado en análisis macroeconómico en Colombia.
+
+Debes construir un informe profesional basado en datos reales.
+
+=====================
+DATOS
+=====================
+
+Fecha: 2025-06-01
+
+ICC:
+Valor: 2.2
+Variación anual: 14.9
+
+PMI:
+Valor: 51.0
+
+IPEC:
+Valor: 280.0
+
+ISE:
+Valor: 123.0
+Crecimiento anual: 3.4
+
+=====================
+REGLAS CLAVE
+=====================
+
+- ICC variación → puntos porcentuales
+- ISE crecimiento → porcentaje (%)
+- PMI >50 expansión | <50 contracción
+- IPEC base 100
+
+=====================
+INSTRUCCIONES
+=====================
+
+Redacta el informe así:
+
+## Informe Económico – 2025-06-01
+
+### 1. Análisis técnico
+
+- Usa valores explícitos
+- Ejemplo:
+
+"El ICC se situó en X%, registrando una variación de X puntos porcentuales..."
+
+"El ISE presentó una variación anual de X%..."
+
+---
+
+### 2. Interpretación económica
+
+- Relaciona indicadores
+- Explica dinámica económica
+
+---
+
+### 3. Conclusión
+
+- Sintetiza resultados
+- Señala riesgos
+
+=====================
+ESTILO
+=====================
+
+- profesional
+- técnico
+- conciso
